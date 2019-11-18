@@ -40,3 +40,8 @@ save_data_to_file(strFileName,lstCustomer)
 
 # TODO: Read the data from the file into a new list object and display the contents
 read_data_from_file(strFileName)
+
+``` 
+
+#### Results of Assignment 07
+![Results of Assignment 07](https://github.com/QMJin/IntroToProg-Python-Mod07/blob/master/docs/Result%2007.png "Results of Assignment 07")
