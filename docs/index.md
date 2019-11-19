@@ -45,3 +45,5 @@ read_data_from_file(strFileName)
 
 #### Results of Assignment 07
 ![Results of Assignment 07](https://github.com/QMJin/IntroToProg-Python-Mod07/blob/master/docs/Result%2007.png "Results of Assignment 07")
+
+ https://qmjin.github.io/IntroToProg-Python-Mod07/
